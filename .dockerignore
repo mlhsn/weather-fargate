@@ -1,0 +1,7 @@
+tests/
+.env
+.gitignore
+LICENSE
+poetry.lock
+pyproject.toml
+*.md
